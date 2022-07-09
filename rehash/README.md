@@ -10,3 +10,4 @@ notice: classes.dex must be in the same folder with rehash excutable file
 
 donate: 
  Vietcombank: 9942463208 - ĐỖ MẠNH DŨNG 
+contact: dungdo99820@gmail.com for source code
